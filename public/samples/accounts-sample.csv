@@ -1,0 +1,9 @@
+Account name,Account number,Type,Parent account,Rating,Owner email,Phone,Email,Website,Industry,Employees,Size,Annual revenue,City,Region,Country,Tags,Notes
+Volta Lake Fisheries,ACC-5001,Customer,,Warm,efua.owusu@adinkra.example,036 255 0501,info@voltalake.example,voltalake.example,Agriculture,85,Medium,6400000,Akosombo,Eastern,Ghana,Wholesale,
+Volta Lake Fisheries – Ho Depot,ACC-5002,Customer,ACC-5001,,,,,,Agriculture,12,Small,,Ho,Volta,Ghana,,Branch opened 2026
+Coastal Pharmacy – Cape Coast,ACC-1004,Customer,Coastal Pharmacy Group,Warm,kwame.boateng@adinkra.example,,,,Healthcare,18,Small,,Cape Coast,Central,Ghana,,New branch
+Coastal Pharmacy Group,ACC-1001,Customer,,Hot,,,,,Healthcare,450,Large,,,,,,Headcount refreshed
+Sunrise Pharmacy,,Prospect,,,,,,,,,,,,,,,Ambiguous on purpose
+Northern Agro Traders – Bolgatanga,ACC-5101,Supplier,Northern Agro Traders,,,,,,Agriculture,20,Small,,Bolgatanga,Upper East,Ghana,,Parent does not exist yet
+Labadi Events,,Prospect,,Hot,,,events@labadi.example,,Hospitality,14,Small,,Accra,Greater Accra,Ghana,,
+Bad Revenue Ltd,ACC-5200,Customer,,,,,,,,ten,Small,lots,,,,,Invalid numbers

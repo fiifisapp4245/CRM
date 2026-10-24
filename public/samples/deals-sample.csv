@@ -1,0 +1,13 @@
+Deal name,Value,Currency,Stage,Expected close date,Closed on,Reason,Chance,Owner email,Contact name,Contact email,Contact phone,Company,Notes
+Pharmacy back-office shelving,54000,GHS,Qualified,2026-12-10,,,,kwame.boateng@adinkra.example,Abigail Owusu-Ansah,abigail.owusuansah@coastalpharmacy.example,,,Matched to an existing contact by email
+Bakery display cabinets,16500,GHS,New,2027-01-20,,,,,,,024 555 0201,,Matched by phone number
+Clinic waiting-room seating,38000,GHS,Proposal sent,15/12/2026,,,60,,Mercy Boateng,mercy@ridgeclinic.example,024 555 0199,Ridge Family Clinic,New customer: needs "Create missing contacts and companies"
+Textile showroom lighting,4200,USD,Negotiation,2026-11-28,,,,efua.owusu@adinkra.example,,o.bennett@harmattantextiles.example,,Harmattan Textiles,USD deal: kept separate from GHS
+Warehouse racking,27500,GHS,Won,,2026-09-18,Fast delivery,,,,,,Tema Hardware Supplies,Historical win
+Bank branch counters,12500,GHS,Lost,,2026-09-30,Chose a competitor,,,,,,Coastal Pharmacy Group,Historical loss
+Staff canteen tables,9000,GHS,Lost,,2026-10-02,,,,,,,Tema Hardware Supplies,Error: lost without a reason
+Boardroom chairs,15000,GHS,Won,,2027-03-01,Best price,,,,,,Tema Hardware Supplies,Error: closed date in the future
+Reception sofas,8000,GHS,Pending approval,2026-12-01,,,,,,,,Tema Hardware Supplies,Error: unknown stage
+Bakery staff seating top-up,6000,GHS,Qualified,2026-12-05,,,,,,akosua.frimpong@osubakery.example,,,Error: two contacts share this email
+Branch seating roll-out,402000,GHS,Proposal sent,2026-11-20,,,,,,abigail.owusuansah@coastalpharmacy.example,,Coastal Pharmacy Group,Matches an existing deal
+Warehouse racking,27500,GHS,Won,,2026-09-18,Fast delivery,,,,,,Tema Hardware Supplies,Duplicate of row 6

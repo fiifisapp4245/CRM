@@ -1,0 +1,93 @@
+/*
+ * TroveSuite CRM design tokens — "Calm workspace" (Phase 1 refinement).
+ *
+ * BRAND SOURCE (provisional — confirm with the TroveSuite brand owner):
+ * the cyan scale was read from the reference CRM's compiled CSS (default
+ * accent) and favicon (#0891b2). It is NOT confirmed against an official
+ * brand guide. Replace values in this file only.
+ *
+ * The rest of the palette is ours: cool neutrals lightly tinted toward the
+ * brand so cyan sits in the interface instead of on top of it.
+ * brand-600 (#0891b2) is ~3.7:1 on white, so text and filled controls use
+ * brand-700 (#0e7490, ~5.4:1); brand-600 is for marks and non-text accents.
+ */
+:root {
+  --brand-50: #effbfd;
+  --brand-100: #d5f3f8;
+  --brand-200: #a9e5ef;
+  --brand-300: #6fd0e2;
+  --brand-500: #13a7c4;
+  --brand-600: #0891b2;
+  --brand-700: #0e7490;
+  --brand-800: #135d73;
+  --brand-900: #164a5b;
+
+  /* Surfaces: canvas < panel (sidebar) < card. */
+  --background: #ffffff; /* main content area */
+  --panel: #f3f6f7; /* sidebar and top bar */
+  --card: #ffffff;
+  --card-foreground: #10242c;
+  --popover: #ffffff;
+  --popover-foreground: #10242c;
+  --foreground: #10242c;
+  --muted: #eef3f5;
+  --muted-foreground: #56707a; /* ≥4.8:1 on canvas and card */
+  --subtle-foreground: #7a8f97; /* icons and decorative meta only */
+  --secondary: #eef3f5;
+  --secondary-foreground: #10242c;
+  --accent: #eaf7fa;
+  --accent-foreground: #135d73;
+  --border: #e3eaed;
+  --border-strong: #cfdbe0;
+  --input: #d5dfe3;
+  --ring: #13a7c4;
+
+  --primary: var(--brand-700);
+  --primary-hover: var(--brand-800);
+  --primary-foreground: #ffffff;
+
+  /* Semantic status — used only to communicate state. */
+  --destructive: #c8323a;
+  --danger-soft: #fdf0f0;
+  --success: #17804a;
+  --success-soft: #edf8f1;
+  --warning: #a65a07;
+  --warning-soft: #fdf5e8;
+  --info: #2b5fc7;
+  --info-soft: #eef3fd;
+
+  /* Soft identity tints for avatars (name-hashed). */
+  --tint-1-bg: #e3f4f8; --tint-1-fg: #135d73;
+  --tint-2-bg: #ecebfb; --tint-2-fg: #4b3fa3;
+  --tint-3-bg: #fbeee5; --tint-3-fg: #93460f;
+  --tint-4-bg: #e7f5ea; --tint-4-fg: #22683a;
+  --tint-5-bg: #fbe9ef; --tint-5-fg: #96294f;
+  --tint-6-bg: #f1f0e6; --tint-6-fg: #5f5a24;
+
+  /*
+   * Depth: hierarchy comes from borders, spacing and surface contrast.
+   * Resting surfaces (cards, fields, buttons) carry no shadow. Only things
+   * that float above the page (menus, popovers, dialogs, toasts) get one.
+   */
+  --shadow-xs: none;
+  --shadow-sm: none;
+  --shadow-md: 0 1px 2px rgb(16 36 44 / 0.04), 0 8px 24px -8px rgb(16 36 44 / 0.14);
+  --shadow-primary: none;
+
+  --chart-1: var(--brand-700);
+  --chart-2: var(--brand-500);
+  --chart-3: var(--brand-300);
+  --chart-4: #9fb2b9;
+  --chart-5: #56707a;
+
+  --radius: 0.625rem;
+
+  --sidebar: var(--panel);
+  --sidebar-foreground: #33505b;
+  --sidebar-primary: var(--brand-700);
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #ffffff;
+  --sidebar-accent-foreground: #10242c;
+  --sidebar-border: #e3eaed;
+  --sidebar-ring: var(--ring);
+}

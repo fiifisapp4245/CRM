@@ -1,0 +1,15 @@
+First name,Last name,Email,Phone,WhatsApp,Company,Job title,Owner email,City,Region,Country,Tags,Notes,Preferred language
+Efua,Mensah-Bonsu,efua.mb@sunyanifresh.example,024 555 7001,024 555 7001,Sunyani Fresh Foods,Buyer,kwame.boateng@adinkra.example,Sunyani,Bono,Ghana,Wholesale;Event 2026,Met at Sunyani trade fair,Twi
+Kweku,Annan,kweku.annan@mail.example,055 555 7002,,,,,Accra,Greater Accra,Ghana,Retail,,English
+Adwoa,Pokuaa,adwoa.pokuaa@brightpath.example,+233 20 555 7003,,Bright Path Schools,Bursar,efua.owusu@adinkra.example,Kumasi,Ashanti,Ghana,,,Twi
+Abigail,Owusu-Ansah,ABIGAIL.OwusuAnsah@coastalpharmacy.example,,,Coastal Pharmacy Group,Director of Procurement,,,,,Key decision maker,Promoted in Sept,English
+Kwesi,Arthur,,+233 55 455 5010,,,,,Cape Coast,Central,Ghana,Newsletter,,Fante
+Yaa,Asantewaa,yaa.asantewaa@mail,050 555 7006,,,,,Tamale,Northern,Ghana,,Invalid email on purpose,English
+,,nameless@mail.example,027 555 7007,,,,,,,,,,
+Nana,Ampofo,nana.ampofo@mail.example,0244 55,,,,,,,,,Phone too short,
+Kweku,Annan,kweku.annan@mail.example,,,,,,,,,,Repeated row in the same file,
+Grace,Addo,,0205550303,,,,,Tema,,Ghana,,Matches two existing records,
+Chinedu,Eze,chinedu.eze@mail.example,+234 803 555 7011,,Takoradi Marine Services,Ship Agent,,Lagos,,Nigeria,Wholesale,International number,English
+Selorm,Kpeli,selorm.kpeli@labadievents.example,026 555 7012,026 555 7012,Labadi Events,Events Manager,naa.lamptey@adinkra.example,Accra,Greater Accra,Ghana,Event 2026,Owner is inactive,Ewe
+Harriet,Quansah,harriet.q@newco.example,059 555 7013,,Unknown Ventures Ltd,CEO,,Takoradi,Western,Ghana,,Company not in CRM,English
+Kojo,Badu,kojo.badu@mail.example,024 555 7014,,,,,Ho,Volta,Ghana,Referral,"Said ""call after 4pm"", prefers Ewe",Ewe

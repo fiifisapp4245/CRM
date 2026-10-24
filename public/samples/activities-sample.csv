@@ -1,0 +1,10 @@
+Type,Subject,Date,Time,Done,Minutes,Outcome,Direction,Priority,Email,Phone,Owner,Notes
+call,Discussed revised delivery dates,2026-10-15,10:30,yes,12,Answered,We contacted them,,abigail.owusuansah@coastalpharmacy.example,,kwame.boateng@adinkra.example,Prefers Tuesday deliveries
+meeting,Quarterly review with Harmattan Textiles,2026-10-28,14:00,no,,,,High,o.bennett@harmattantextiles.example,,efua.owusu@adinkra.example,
+task,Send updated price list,2026-11-03,09:00,,,,,Normal,,,,Internal task with no customer
+visit,Showroom visit — Osu,2026-10-10,11:00,yes,45,,,,,024 555 0201,,Customer chose two sofas
+note,Customer prefers WhatsApp,2026-10-12,,,,,,,abigail.owusuansah@coastalpharmacy.example,,,
+call,Call new prospect,2026-10-16,15:00,yes,5,No answer,,,new.person@unknown.example,,,Not in the CRM
+lunch,Team lunch,2026-10-30,13:00,,,,,,,,,Unknown type
+task,Book delivery van,31/02/2026,,,,,,,,,,Impossible date
+call,Discussed revised delivery dates,2026-10-15,10:30,yes,12,Answered,We contacted them,,abigail.owusuansah@coastalpharmacy.example,,kwame.boateng@adinkra.example,Duplicate of row 2
